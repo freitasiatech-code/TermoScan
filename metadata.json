@@ -1,0 +1,5 @@
+{
+  "name": "SchottTermoScan",
+  "description": "Plataforma inteligente para análise de imagens termográficas industriais, identificando anomalias térmicas e conformidade com normas técnicas.",
+  "requestFramePermissions": []
+}
